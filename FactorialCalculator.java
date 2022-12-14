@@ -11,6 +11,7 @@ class FactorialCalculatorV1
     
     // xoLus FactorialCalculatorV1
     System.out.println("   -----xoLus-----\nFactorialCalculatorV1");
+    System.out.println("hi");
     
     // operate
     FactorialCalculatorV1 operator = new FactorialCalculatorV1();
