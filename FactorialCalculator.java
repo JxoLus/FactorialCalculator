@@ -22,6 +22,7 @@ class FactorialCalculatorV1
   private void calculation()
   {
     
+    // calculate
     for (int i = 1; this.number >= i; i++)
     {
       
